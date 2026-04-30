@@ -1,0 +1,198 @@
+---
+created: YYYY-MM-DD
+tags: [area/goals, active]
+status: active
+related: []
+---
+
+# Goals & Timelines
+
+Live tracking file. Updated daily by morning check-in. Last updated: YYYY-MM-DD.
+
+---
+
+## 🎯 Major Direction
+
+- **Status:** [Your primary career/life direction — e.g., "CS undergrad", "founder", "PhD track"]
+- **Note:** [Any clarifying note]
+
+---
+
+## 🎓 Academic / Learning
+
+### [Goal name, e.g., "GPA"]
+- **Target:** [e.g., 4.0]
+- **Current:** [latest measurement]
+- **Timeline:** [Ongoing / specific deadline]
+- **Next checkpoint:** [date]
+- **Status:** 🟢 / 🟡 / 🔴
+
+[Repeat per goal: e.g., SAT, ACT, AP exams, certifications, online courses]
+
+---
+
+## 🏆 Competitions / Contests
+
+### [Competition name]
+- **Date:** [event date]
+- **Events:** [what you're competing in]
+- **Target:** [outcome you want]
+- **Status:** 🟢 / 🟡 / 🔴
+
+[Repeat per competition]
+
+---
+
+## 🔬 Research & Projects
+
+### [Project name]
+- **Target:** [definition of done]
+- **Gaps remaining:** [open work items]
+- **Timeline:** [milestones with dates]
+- **Next action:** [exact next step]
+- **Status:** 🟢 / 🟡 / 🔴
+
+[Repeat per project]
+
+---
+
+## 📱 Social / Brand (optional — delete if N/A)
+
+### [Channel / platform]
+- **Target:** [follower goal + date]
+- **Current:** [latest count]
+- **Content:** [niche/themes]
+- **Next action:** [exact next step]
+- **Status:** 🟢 / 🟡 / 🔴
+
+---
+
+## 🏐 Sports / Physical (optional — delete if N/A)
+
+### [Sport / activity]
+- **Goal:** [outcome]
+- **Current:** [role / level]
+- **Timeline:** [Ongoing or specific]
+- **Status:** 🟢 / 🟡 / 🔴
+
+---
+
+## 🖐️ Personal / Skills
+
+### [Skill]
+- **Target:** [definition]
+- **Timeline:** [Ongoing or specific]
+- **Next action:** [exact next step]
+- **Status:** 🟢 / 🟡 / 🔴
+
+---
+
+## 📅 Certifications
+
+| Cert | Target date | Status |
+|------|-------------|--------|
+| [cert name] | YYYY-MM | 🔴 |
+
+---
+
+## 🗓️ Immediate Action Items (next 14 days)
+
+- [ ] [Action item with date if applicable]
+- [ ] [Another]
+
+---
+
+## 🛠️ Daily Operating Plan
+
+Three tiers. Pick one each morning based on day-shape (the morning skill auto-classifies).
+
+### TIER A — FULL DAY (default workday, ~3–4h focused work)
+
+| Block | Time | Task |
+|-------|------|------|
+| 🔧 Build | 60 min | [Primary project — pick one gap to close] |
+| 📚 Learn | 60 min | [Highest-urgency academic / certification] |
+| 🧠 Compound | 30 min | [Skill rotation — alternate days] |
+| ✍️ Ship | 30 min | [Publish 1 artifact: post, write-up, demo] |
+| 🏐 Train | scheduled | [Physical activity if scheduled] |
+| 📓 Close | 10 min | Update goals.md + tomorrow's tier |
+
+**Single Right Thing this month:** [The one project you'd ship if you could only ship one]
+
+---
+
+### TIER B — SHORT DAY (~1h) — competition days, family hangouts, travel, late events
+
+Pick **one** in priority order:
+1. [Highest-urgency project — even 15 min counts]
+2. [Second-highest urgency]
+3. [One small skill task]
+
+Then **Close** (5 min): note in goals.md what got done + chosen tier for tomorrow.
+
+---
+
+### TIER C — REST DAY (~15 min) — illness, recovery, family event, post-tournament
+
+- 📓 Read 1 wiki / reference page (5 min)
+- 📝 Capture any idea/observation in `Inbox/` (5 min)
+- 🛌 Sleep + recover. Mark daily note `🛌 rest day` in frontmatter.
+
+---
+
+## 📅 Day-Shape Rules (when to drop tiers)
+
+| Trigger | Tier |
+|---------|------|
+| Default workday | A |
+| Competition / contest day | B |
+| Family event / day trip / movie night > 3h | B |
+| Sports tournament (home) | B |
+| Sports tournament (away / travel) | C |
+| Sick / injured / recovering | C |
+| Sunday (or chosen weekly rest day) | B (light) |
+| Major test/exam day | B (only the test + close) |
+
+**Rule:** Pre-decide the tier the night before. Don't decide in the morning when willpower is low.
+
+---
+
+## 🗓️ Weekly Rhythm (customize per your week)
+
+| Day | Default tier | Themed focus |
+|-----|--------------|--------------|
+| Mon | A | [theme] |
+| Tue | A | [theme] |
+| Wed | A | [theme] |
+| Thu | A | [theme] |
+| Fri | A | [theme] |
+| Sat | A | [theme] |
+| Sun | B | Plan week + light review |
+
+---
+
+## 📈 Weekly Review (Sunday close)
+
+1. What did I compound? (streaks, skills, network)
+2. What schlep did I avoid that I should do next week?
+3. Did I talk to a user / mentor?
+4. What's my one metric — and is it up?
+5. Was I earnest, or performing?
+
+Log in row above this section.
+
+---
+
+## 🎯 Monthly Milestones (next 6 months)
+
+| Month | Milestone |
+|-------|-----------|
+| [YYYY-MM] | [milestone] |
+
+---
+
+## 📊 Weekly Check-in Log
+
+| Date | Notes |
+|------|-------|
+| YYYY-MM-DD | [Initial entry] |

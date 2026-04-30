@@ -1,0 +1,22 @@
+---
+name: Rest Days
+description: Recurring rest / recovery / family / religious-observance days that should auto-classify as Tier C in the morning check-in.
+type: project
+---
+
+# Rest Days
+
+List date ranges or recurring patterns. Format flexibly — the morning skill reads this and treats matching dates as Tier C.
+
+## One-off rest windows
+
+- YYYY-MM-DD to YYYY-MM-DD — reason (e.g., illness, recovery, family trip)
+
+## Recurring patterns
+
+- [Day of week / monthly observance / religious holiday]
+
+## Notes
+
+- Update after any tournament/competition that requires recovery
+- Update after illness or injury onset

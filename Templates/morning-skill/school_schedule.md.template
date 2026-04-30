@@ -1,0 +1,27 @@
+---
+name: School / Work Schedule
+description: Weekly fixed-schedule baseline — used by the morning skill to know when the user is unavailable and to schedule work blocks around it.
+type: project
+---
+
+# Weekly Schedule
+
+| Day | Hours | Notes |
+|-----|-------|-------|
+| Mon | HH:MM – HH:MM | [school / work / class names if relevant] |
+| Tue | HH:MM – HH:MM | |
+| Wed | HH:MM – HH:MM | [early dismissal / half day if applicable] |
+| Thu | HH:MM – HH:MM | |
+| Fri | HH:MM – HH:MM | |
+| Sat | [free / partial] | |
+| Sun | [free / partial] | |
+
+## Recurring commitments
+
+- [Day]: [activity, time]
+- [Day]: [activity, time]
+
+## Notes
+
+- Update if schedule changes mid-semester
+- The morning skill uses this to avoid scheduling conflicts

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0dfaa3941e7cb12a",
+        "id": "77d06da226c46c84",
         "type": "tabs",
         "children": [
           {
-            "id": "7ecd676119ddd18d",
+            "id": "8b47cefae313bb88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "apple.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "apple"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apple.md",
+                "file": "Projects/locked-in-blocker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for apple"
+              "title": "Backlinks for locked-in-blocker"
             }
           },
           {
@@ -113,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apple.md",
+                "file": "Projects/locked-in-blocker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from apple"
+              "title": "Outgoing links from locked-in-blocker"
             }
           },
           {
@@ -156,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apple.md",
+                "file": "Projects/locked-in-blocker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of apple"
+              "title": "Outline of locked-in-blocker"
             }
           }
         ]
@@ -184,29 +180,57 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ecd676119ddd18d",
+  "active": "8b47cefae313bb88",
   "lastOpenFiles": [
-    "obsidian-skills/skills/obsidian-markdown/references/PROPERTIES.md",
-    "obsidian-skills/skills/obsidian-markdown/references/EMBEDS.md",
-    "obsidian-skills/skills/obsidian-markdown/references/CALLOUTS.md",
-    "obsidian-skills/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
-    "obsidian-skills/skills/json-canvas/references/EXAMPLES.md",
-    "obsidian-skills/skills/obsidian-markdown/references",
-    "obsidian-skills/skills/obsidian-markdown/SKILL.md",
-    "obsidian-skills/skills/obsidian-cli/SKILL.md",
-    "obsidian-skills/skills/obsidian-bases/references",
-    "obsidian-skills/skills/obsidian-bases/SKILL.md",
-    "obsidian-skills/skills/json-canvas/references",
-    "obsidian-skills/skills/json-canvas/SKILL.md",
-    "obsidian-skills/skills/defuddle/SKILL.md",
-    "obsidian-skills/skills/obsidian-markdown",
-    "obsidian-skills/skills/obsidian-cli",
-    "obsidian-skills/skills/obsidian-bases",
-    "obsidian-skills/skills/json-canvas",
-    "obsidian-skills/skills/defuddle",
-    "obsidian-skills/skills",
-    "obsidian-skills/README.md",
-    "obsidian-skills/LICENSE",
-    "apple.md"
+    "landing/node_modules/merge2/README.md",
+    "jarvis/node_modules/ms/license.md",
+    "jarvis/node_modules/node-addon-api/README.md",
+    "jarvis/node_modules/next/dist/docs/01-app/01-getting-started/07-mutating-data.md",
+    "docs/app/api-reference/file-conventions/route.md",
+    "docs/app/api-reference/file-conventions",
+    "docs/app/api-reference",
+    "docs/app",
+    "docs",
+    "jarvis/types/speech.d.ts",
+    "jarvis/types",
+    "2026-04-30.md",
+    "wiki/philosophy.md",
+    "Resources/raw/philosophy/overview.md",
+    "Resources/raw/philosophy",
+    "jarvis/app/api/transcribe/route.ts",
+    "jarvis/app/api/transcribe",
+    "jarvis-ui.png",
+    "jarvis/lib/embeddings.ts",
+    "jarvis/node_modules/@xenova/transformers/node_modules/sharp/vendor/8.14.5/darwin-arm64v8/THIRD-PARTY-NOTICES.md",
+    "jarvis/node_modules/@xenova/transformers/node_modules/sharp/README.md",
+    "jarvis/node_modules/@xenova/transformers/README.md",
+    "jarvis/node_modules/prebuild-install/node_modules/tar-stream/README.md",
+    "jarvis/node_modules/prebuild-install/node_modules/tar-fs/README.md",
+    "jarvis/node_modules/prebuild-install/CONTRIBUTING.md",
+    "jarvis/node_modules/prebuild-install/README.md",
+    "jarvis/node_modules/prebuild-install/CHANGELOG.md",
+    "jarvis/node_modules/@huggingface/jinja/README.md",
+    "jarvis/node_modules/@types/long/README.md",
+    "jarvis/node_modules/onnxruntime-node/README.md",
+    "jarvis/node_modules/@protobufjs/path/README.md",
+    "jarvis/node_modules/@protobufjs/utf8/README.md",
+    "jarvis/node_modules/@protobufjs/inquire/README.md",
+    "jarvis/node_modules/@protobufjs/pool/README.md",
+    "jarvis/node_modules/@protobufjs/float/README.md",
+    "jarvis/node_modules/@protobufjs/fetch/README.md",
+    "jarvis/node_modules/@protobufjs/eventemitter/README.md",
+    "jarvis/node_modules/highlight.js/styles/brown-papersq.png",
+    "jarvis/node_modules/highlight.js/styles/pojoaque.jpg",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "jarvis/public/window.svg",
+    "jarvis/public/vercel.svg",
+    "jarvis/public/next.svg",
+    "jarvis/public/globe.svg",
+    "jarvis/public/file.svg",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }

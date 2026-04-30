@@ -1,0 +1,535 @@
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - link "AG" [ref=e6] [cursor=pointer]:
+      - /url: "#"
+      - text: AG
+    - list [ref=e7]:
+      - listitem [ref=e8]:
+        - link "About" [ref=e9] [cursor=pointer]:
+          - /url: "#about"
+          - text: About
+      - listitem [ref=e10]:
+        - link "Now" [ref=e11] [cursor=pointer]:
+          - /url: "#now"
+          - text: Now
+      - listitem [ref=e12]:
+        - link "Projects" [ref=e13] [cursor=pointer]:
+          - /url: "#projects"
+          - text: Projects
+      - listitem [ref=e14]:
+        - link "Principles" [ref=e15] [cursor=pointer]:
+          - /url: "#principles"
+          - text: Principles
+      - listitem [ref=e16]:
+        - link "Vision" [ref=e17] [cursor=pointer]:
+          - /url: "#vision"
+          - text: Vision
+    - generic [ref=e18]:
+      - link "YouTube" [ref=e19] [cursor=pointer]:
+        - /url: https://youtube.com/@RamaRid3rShorts
+        - img [ref=e20]
+      - link "GitHub" [ref=e22] [cursor=pointer]:
+        - /url: https://github.com/aadivb9
+        - img [ref=e23]
+      - link "Open to opportunities" [ref=e25] [cursor=pointer]:
+        - /url: "#projects"
+        - text: Open to opportunities
+  - generic [ref=e27]:
+    - generic:
+      - img
+    - generic [ref=e33]:
+      - generic [ref=e36]: Tesla STEM HS · Class of 2029 · Redmond, WA
+      - heading "A A D I G U P T A" [level=1] [ref=e39]:
+        - generic [ref=e40]: A
+        - generic [ref=e41]: A
+        - generic [ref=e42]: D
+        - generic [ref=e43]: I
+        - generic [ref=e45]: G
+        - generic [ref=e46]: U
+        - generic [ref=e47]: P
+        - generic [ref=e48]: T
+        - generic [ref=e49]: A
+      - paragraph [ref=e50]: Inventor · CS Engineer · Content Creator · Future Founder
+      - generic [ref=e51]:
+        - link "Explore My Work →" [ref=e52] [cursor=pointer]:
+          - /url: "#projects"
+          - text: Explore My Work →
+        - link "Watch 150K+ Views ↗" [ref=e55] [cursor=pointer]:
+          - /url: https://youtube.com/@RamaRid3rShorts
+      - generic [ref=e57]: scroll
+  - generic [ref=e60]:
+    - generic [ref=e61]:
+      - generic [ref=e62]:
+        - generic [ref=e63]: 150K+ YOUTUBE VIEWS
+        - generic [ref=e64]: ◆
+      - generic [ref=e65]:
+        - generic [ref=e66]: FBLA STATE QUALIFIER
+        - generic [ref=e67]: ◆
+      - generic [ref=e68]:
+        - generic [ref=e69]: U16 TOURNAMENT CHAMPION
+        - generic [ref=e70]: ◆
+      - generic [ref=e71]:
+        - generic [ref=e72]: CLASS OF 2029
+        - generic [ref=e73]: ◆
+      - generic [ref=e74]:
+        - generic [ref=e75]: TESLA STEM HIGH SCHOOL
+        - generic [ref=e76]: ◆
+      - generic [ref=e77]:
+        - generic [ref=e78]: USACO COMPETITOR
+        - generic [ref=e79]: ◆
+      - generic [ref=e80]:
+        - generic [ref=e81]: iOS APP DEVELOPER
+        - generic [ref=e82]: ◆
+      - generic [ref=e83]:
+        - generic [ref=e84]: SILICON VALLEY BOUND
+        - generic [ref=e85]: ◆
+      - generic [ref=e86]:
+        - generic [ref=e87]: CYBERSECURITY ENTHUSIAST
+        - generic [ref=e88]: ◆
+      - generic [ref=e89]:
+        - generic [ref=e90]: VICE CAPTAIN
+        - generic [ref=e91]: ◆
+    - generic [ref=e92]:
+      - generic [ref=e93]:
+        - generic [ref=e94]: 150K+ YOUTUBE VIEWS
+        - generic [ref=e95]: ◆
+      - generic [ref=e96]:
+        - generic [ref=e97]: FBLA STATE QUALIFIER
+        - generic [ref=e98]: ◆
+      - generic [ref=e99]:
+        - generic [ref=e100]: U16 TOURNAMENT CHAMPION
+        - generic [ref=e101]: ◆
+      - generic [ref=e102]:
+        - generic [ref=e103]: CLASS OF 2029
+        - generic [ref=e104]: ◆
+      - generic [ref=e105]:
+        - generic [ref=e106]: TESLA STEM HIGH SCHOOL
+        - generic [ref=e107]: ◆
+      - generic [ref=e108]:
+        - generic [ref=e109]: USACO COMPETITOR
+        - generic [ref=e110]: ◆
+      - generic [ref=e111]:
+        - generic [ref=e112]: iOS APP DEVELOPER
+        - generic [ref=e113]: ◆
+      - generic [ref=e114]:
+        - generic [ref=e115]: SILICON VALLEY BOUND
+        - generic [ref=e116]: ◆
+      - generic [ref=e117]:
+        - generic [ref=e118]: CYBERSECURITY ENTHUSIAST
+        - generic [ref=e119]: ◆
+      - generic [ref=e120]:
+        - generic [ref=e121]: VICE CAPTAIN
+        - generic [ref=e122]: ◆
+  - generic [ref=e125]:
+    - generic [ref=e126]:
+      - paragraph [ref=e127]: by the numbers
+      - heading "The receipts speak for themselves." [level=2] [ref=e128]:
+        - text: The receipts speak
+        - text: for themselves.
+    - generic [ref=e129]:
+      - generic [ref=e130]:
+        - generic [ref=e132]: ▶
+        - generic [ref=e134]: 0K+
+        - paragraph [ref=e135]: YouTube Views
+        - paragraph [ref=e136]: "@RamaRid3rShorts"
+      - generic [ref=e137]:
+        - generic [ref=e139]: ◈
+        - generic [ref=e141]: 0+
+        - paragraph [ref=e142]: Subscribers
+        - paragraph [ref=e143]: and growing fast
+      - generic [ref=e144]:
+        - generic [ref=e146]: ◆
+        - generic [ref=e148]: 0x
+        - paragraph [ref=e149]: FBLA State Qualifier
+        - paragraph [ref=e150]: Cybersecurity + Programming
+      - generic [ref=e151]:
+        - generic [ref=e153]: ★
+        - generic [ref=e155]: 0th
+        - paragraph [ref=e156]: Grade · 4.0 GPA
+        - paragraph [ref=e157]: 95.33% avg — flawless
+    - generic [ref=e158]:
+      - generic [ref=e159]:
+        - paragraph [ref=e160]: who is aadi
+        - paragraph [ref=e161]: Freshman at Tesla STEM High School. iOS dev, volleyball setter, CS + security competitor. Content that's already hit 150K+ views — built in public, no legacy connections.
+        - paragraph [ref=e162]: "Direction: Computer Engineering at MIT, CMU, or Stanford. Build in public, study in private, take competitions seriously."
+        - generic [ref=e163]:
+          - generic [ref=e164]: ENFJ-T
+          - generic [ref=e165]: Setter · Right Side
+          - generic [ref=e166]: U16 Vice Captain
+          - generic [ref=e167]: FBLA SBLC
+          - generic [ref=e168]: iOS Dev
+          - generic [ref=e169]: Cybersecurity
+      - generic [ref=e170]:
+        - generic [ref=e175]: aadi.profile
+        - generic [ref=e176]:
+          - generic [ref=e177]:
+            - generic [ref=e178]: name
+            - generic [ref=e179]: Aadi Gupta
+          - generic [ref=e180]:
+            - generic [ref=e181]: born
+            - generic [ref=e182]: 12/19/2010 · Redmond WA
+          - generic [ref=e183]:
+            - generic [ref=e184]: school
+            - generic [ref=e185]: Tesla STEM HS · 2029
+          - generic [ref=e186]:
+            - generic [ref=e187]: gpa
+            - generic [ref=e188]: 4.0 unweighted (95.33 avg)
+          - generic [ref=e189]:
+            - generic [ref=e190]: major
+            - generic [ref=e191]: Computer Engineering
+          - generic [ref=e192]:
+            - generic [ref=e193]: targets
+            - generic [ref=e194]: MIT · CMU · Stanford
+          - generic [ref=e195]:
+            - generic [ref=e196]: shipping
+            - generic [ref=e197]: lockedIn (iOS)
+          - generic [ref=e198]:
+            - generic [ref=e199]: status
+            - generic [ref=e200]: "> LOCKED IN"
+          - generic [ref=e201]:
+            - generic [ref=e202]: $
+            - generic [ref=e203]: ready_to_ship
+  - generic [ref=e208]:
+    - generic [ref=e209]:
+      - generic [ref=e210]:
+        - paragraph [ref=e211]: live status · april 2026
+        - heading "Where my attention actually is." [level=2] [ref=e213]:
+          - text: Where my attention
+          - text: actually is.
+      - paragraph [ref=e214]:
+        - text: no roadmap fluff.
+        - text: just the six lanes running right now.
+    - generic [ref=e215]:
+      - generic [ref=e216]:
+        - generic [ref=e218]:
+          - generic [ref=e219]: 🚀
+          - generic [ref=e220]: SHIPPING
+        - heading "lockedIn iOS" [level=3] [ref=e221]
+        - paragraph [ref=e222]: "SwiftUI + Family Controls + Gemini. TestFlight beta May/Jun. App Store target: summer 2026."
+        - generic [ref=e224]:
+          - generic [ref=e225]: progress
+          - generic [ref=e226]: 78%
+      - generic [ref=e228]:
+        - generic [ref=e230]:
+          - generic [ref=e231]: 🏆
+          - generic [ref=e232]: COMPETING
+        - heading "FBLA SBLC" [level=3] [ref=e233]
+        - paragraph [ref=e234]: Cybersecurity + Intro to Programming. Apr 21. Fully prepped. USACO Bronze + PicoCTF queued.
+        - generic [ref=e236]:
+          - generic [ref=e237]: progress
+          - generic [ref=e238]: 92%
+      - generic [ref=e240]:
+        - generic [ref=e242]:
+          - generic [ref=e243]: 📚
+          - generic [ref=e244]: STUDYING
+        - heading "AP CSP + SAT prep" [level=3] [ref=e245]
+        - paragraph [ref=e246]: AP CSP exam May 2026. SAT/ACT prep starts this summer. Targeting 1580–1600.
+        - generic [ref=e248]:
+          - generic [ref=e249]: progress
+          - generic [ref=e250]: 55%
+      - generic [ref=e252]:
+        - generic [ref=e254]:
+          - generic [ref=e255]: ⛈
+          - generic [ref=e256]: RESEARCHING
+        - heading "Extreme Weather Resilience" [level=3] [ref=e257]
+        - paragraph [ref=e258]: Pre-formal phase. JSHS regional by Spring 2027. ISEF target by 11th grade.
+        - generic [ref=e260]:
+          - generic [ref=e261]: progress
+          - generic [ref=e262]: 22%
+      - generic [ref=e264]:
+        - generic [ref=e266]:
+          - generic [ref=e267]: 📲
+          - generic [ref=e268]: BUILDING
+        - heading "Instagram brand from zero" [level=3] [ref=e269]
+        - paragraph [ref=e270]: "AI + motivation + anime. Target: 1k followers by Aug 31. AMV channel on deck."
+        - generic [ref=e272]:
+          - generic [ref=e273]: progress
+          - generic [ref=e274]: 8%
+      - generic [ref=e276]:
+        - generic [ref=e278]:
+          - generic [ref=e279]: 🏐
+          - generic [ref=e280]: TRAINING
+        - heading "U16 Volleyball — Nationals" [level=3] [ref=e281]
+        - paragraph [ref=e282]: Setter + right side. Vice Captain. Tournament Champion. Chasing nationals.
+        - generic [ref=e284]:
+          - generic [ref=e285]: progress
+          - generic [ref=e286]: 65%
+    - paragraph [ref=e288]: "last updated: 2026-04-19 · refreshed daily by morning check-in"
+  - generic [ref=e291]:
+    - generic [ref=e292]:
+      - paragraph [ref=e293]: what i build
+      - heading "Projects that ship. Not just ideas." [level=2] [ref=e294]:
+        - text: Projects that ship.
+        - text: Not just ideas.
+    - generic [ref=e295]:
+      - generic [ref=e298]:
+        - generic [ref=e299]: 📱
+        - generic [ref=e300]:
+          - generic [ref=e301]: iOS App
+          - generic [ref=e302]: TestFlight Soon
+        - heading "lockedIn" [level=3] [ref=e303]
+        - paragraph [ref=e304]: Locks your social apps until you pass a quiz. SwiftUI, Apple Family Controls, Gemini for question generation. TestFlight beta May/June 2026, App Store target summer.
+        - generic [ref=e305]:
+          - generic [ref=e306]: SwiftUI
+          - generic [ref=e307]: Family Controls
+          - generic [ref=e308]: Gemini API
+          - generic [ref=e309]: iOS 17+
+      - generic [ref=e312]:
+        - generic [ref=e313]: ⛈
+        - generic [ref=e314]:
+          - generic [ref=e315]: Research Project
+          - generic [ref=e316]: In Progress
+        - heading "Extreme Weather Defense" [level=3] [ref=e317]
+        - paragraph [ref=e318]: Mesh network system for post-disaster communications using ESP32 microcontrollers. Designed to keep communities connected when infrastructure fails.
+        - generic [ref=e319]:
+          - generic [ref=e320]: ESP32
+          - generic [ref=e321]: Arduino
+          - generic [ref=e322]: Mesh Network
+          - generic [ref=e323]: JSHS Target
+      - generic [ref=e326]:
+        - generic [ref=e327]: 🗺
+        - generic [ref=e328]:
+          - generic [ref=e329]: Backend Engineering
+          - generic [ref=e330]: Shipped ✓
+        - heading "Routing Backend" [level=3] [ref=e331]
+        - paragraph [ref=e332]: Logistics routing system built for a local business as a backend developer intern. Handles real-world delivery optimization in production.
+        - generic [ref=e333]:
+          - generic [ref=e334]: Python
+          - generic [ref=e335]: API
+          - generic [ref=e336]: SQL
+          - generic [ref=e337]: Routing Logic
+      - generic [ref=e340]:
+        - generic [ref=e341]: 🦎
+        - generic [ref=e342]:
+          - generic [ref=e343]: FBLA Competition App
+          - generic [ref=e344]: State Qualified ✓
+        - heading "Chameleon Virtual Pet" [level=3] [ref=e345]
+        - paragraph [ref=e346]: Python/tkinter/pygame app built for FBLA Intro to Programming. Qualified for SBLC state competition with this project.
+        - generic [ref=e347]:
+          - generic [ref=e348]: Python
+          - generic [ref=e349]: tkinter
+          - generic [ref=e350]: pygame
+          - generic [ref=e351]: FBLA SBLC
+  - generic [ref=e354]:
+    - generic [ref=e355]:
+      - paragraph [ref=e356]: how i work
+      - heading "Most productivity advice is noise." [level=2] [ref=e357]:
+        - text: Most productivity advice
+        - text: is noise.
+      - paragraph [ref=e358]: Here's what actually holds up. Battle-tested. Anime-validated.
+    - generic [ref=e359]:
+      - generic [ref=e362]:
+        - generic [ref=e363]: "01"
+        - generic [ref=e364]:
+          - heading "Systems beat willpower." [level=3] [ref=e365]
+          - paragraph [ref=e366]: I'm literally building an app around this. Motivation expires. Design doesn't. Default to whatever structure forces the right behavior on autopilot.
+          - paragraph [ref=e367]: ↳ lockedIn
+      - generic [ref=e370]:
+        - generic [ref=e371]: "02"
+        - generic [ref=e372]:
+          - heading "Ship ugly first." [level=3] [ref=e373]
+          - paragraph [ref=e374]: A janky working prototype beats a clean idea. You cannot edit a blank page into a real product.
+          - paragraph [ref=e375]: ↳ shipping mindset
+      - generic [ref=e378]:
+        - generic [ref=e379]: "03"
+        - generic [ref=e380]:
+          - heading "Pick one thing. Get unreasonably good at it." [level=3] [ref=e381]
+          - paragraph [ref=e382]: Rock Lee had no ninjutsu. He trained taijutsu until it was terrifying. One deep skill beats five shallow ones.
+          - paragraph [ref=e383]: ↳ Rock Lee · Naruto
+      - generic [ref=e386]:
+        - generic [ref=e387]: "04"
+        - generic [ref=e388]:
+          - heading "Speed over perfect." [level=3] [ref=e389]
+          - paragraph [ref=e390]: Hinata couldn't set, couldn't spike, couldn't read the game. Made nationals on speed and refusal to stop. The analog applies to CS and to life.
+          - paragraph [ref=e391]: ↳ Hinata · Haikyuu
+      - generic [ref=e394]:
+        - generic [ref=e395]: "05"
+        - generic [ref=e396]:
+          - heading "Isolation is a trap." [level=3] [ref=e397]
+          - paragraph [ref=e398]: Sasuke had everything and nearly destroyed himself. The best engineers ask for help early. Cutting people off is fear with a costume on.
+          - paragraph [ref=e399]: ↳ Sasuke · Naruto
+      - generic [ref=e402]:
+        - generic [ref=e403]: "06"
+        - generic [ref=e404]:
+          - heading "Know what you're grinding for." [level=3] [ref=e405]
+          - paragraph [ref=e406]: "Solo Leveling's actual thesis: daily discipline compounds, but only when you remember the why. Without the why, the grind eats you."
+          - paragraph [ref=e407]: ↳ Sung Jinwoo · Solo Leveling
+      - generic [ref=e410]:
+        - generic [ref=e411]: "07"
+        - generic [ref=e412]:
+          - heading "Setter brain applies everywhere." [level=3] [ref=e413]
+          - paragraph [ref=e414]: Your job is to make the people around you look good. Do that, and you don't have to be the ace.
+          - paragraph [ref=e415]: ↳ volleyball · life
+    - paragraph [ref=e417]: seven principles · zero hustle-bro energy · all stolen from people smarter than me
+  - generic [ref=e420]:
+    - generic [ref=e421]:
+      - paragraph [ref=e422]: arsenal
+      - heading "Tools of the trade." [level=2] [ref=e423]
+    - generic [ref=e424]:
+      - generic [ref=e425]:
+        - paragraph [ref=e426]: Languages
+        - generic [ref=e427]:
+          - generic [ref=e428]: Python
+          - generic [ref=e429]: JavaScript
+          - generic [ref=e430]: C/C++
+          - generic [ref=e431]: HTML/CSS
+          - generic [ref=e432]: SQL
+      - generic [ref=e433]:
+        - paragraph [ref=e434]: Frameworks & Tools
+        - generic [ref=e435]:
+          - generic [ref=e436]: Swift
+          - generic [ref=e437]: SwiftUI
+          - generic [ref=e438]: React
+          - generic [ref=e439]: Vite
+          - generic [ref=e440]: Tailwind
+          - generic [ref=e441]: Git
+          - generic [ref=e442]: Xcode
+      - generic [ref=e443]:
+        - paragraph [ref=e444]: Hardware
+        - generic [ref=e445]:
+          - generic [ref=e446]: Arduino
+          - generic [ref=e447]: ESP32
+          - generic [ref=e448]: Embedded Systems
+          - generic [ref=e449]: Sensors
+          - generic [ref=e450]: Motors
+      - generic [ref=e451]:
+        - paragraph [ref=e452]: Domain
+        - generic [ref=e453]:
+          - generic [ref=e454]: Cybersecurity
+          - generic [ref=e455]: Network Routing
+          - generic [ref=e456]: iOS Dev
+          - generic [ref=e457]: USACO
+          - generic [ref=e458]: FBLA
+      - generic [ref=e459]:
+        - paragraph [ref=e460]: Creative
+        - generic [ref=e461]:
+          - generic [ref=e462]: Adobe After Effects
+          - generic [ref=e463]: Video Editing
+          - generic [ref=e464]: Graphic Design
+          - generic [ref=e465]: Content Creation
+    - generic [ref=e466]:
+      - paragraph [ref=e467]: competitions & achievements
+      - generic [ref=e468]:
+        - generic [ref=e469]:
+          - paragraph [ref=e470]: FBLA SBLC
+          - paragraph [ref=e471]: State Qualifier · Cybersecurity + Programming
+        - generic [ref=e473]:
+          - paragraph [ref=e474]: USACO
+          - paragraph [ref=e475]: Bronze Division · Working toward Gold
+        - generic [ref=e477]:
+          - paragraph [ref=e478]: VEX IQ
+          - paragraph [ref=e479]: State Championship Competitor
+        - generic [ref=e481]:
+          - paragraph [ref=e482]: Volleyball
+          - paragraph [ref=e483]: U16 · Tournament Champion · Vice Captain
+        - generic [ref=e485]:
+          - paragraph [ref=e486]: SPARC 2026
+          - paragraph [ref=e487]: Applied · Late July
+        - generic [ref=e489]:
+          - paragraph [ref=e490]: Badminton
+          - paragraph [ref=e491]: National Level · 8th Grade
+  - generic [ref=e495]:
+    - generic [ref=e496]:
+      - paragraph [ref=e497]: the opposition
+      - heading "What the haters said." [level=2] [ref=e498]
+      - paragraph [ref=e499]: "Featuring: Anthropic doubters, UI skeptics, and people who underestimated a 9th grader."
+    - generic [ref=e500]:
+      - generic [ref=e501]:
+        - generic [ref=e502]:
+          - generic [ref=e503]:
+            - generic [ref=e504]: 🤡
+            - generic [ref=e505]:
+              - paragraph [ref=e506]: tech_skeptic_101
+              - paragraph [ref=e507]: "@tech_skeptic_101"
+            - img [ref=e509]
+          - paragraph [ref=e511]: Anthropic is so overrated lmaooo. Claude is just a worse ChatGPT with extra steps. Their whole "AI safety" thing is pure marketing hype. Nothing they ship actually impresses.
+          - generic [ref=e512]:
+            - generic [ref=e513]: 2:47 PM · Dec 14, 2024
+            - generic [ref=e514]: 💬 89
+            - generic [ref=e515]: ❤️ 2.3K
+        - generic:
+          - generic: WRONG
+        - paragraph [ref=e518]: You are reading this page right now.
+      - generic [ref=e519]:
+        - generic [ref=e520]:
+          - generic [ref=e521]:
+            - generic [ref=e522]: 😒
+            - generic [ref=e523]:
+              - paragraph [ref=e524]: WebDevBro_Official
+              - paragraph [ref=e525]: "@WebDevBro"
+            - img [ref=e527]
+          - paragraph [ref=e529]: No AI model can build a proper 3D scrolling landing page. The CSS is always wrong, the animations are janky, it can't do tilt effects, the particles never work. Just stop trying.
+          - generic [ref=e530]:
+            - generic [ref=e531]: 11:22 AM · Jan 8, 2025
+            - generic [ref=e532]: 💬 412
+            - generic [ref=e533]: ❤️ 8.9K
+        - generic:
+          - generic: WRONG
+        - paragraph [ref=e536]: Scroll up. Look at what you just scrolled through.
+      - generic [ref=e537]:
+        - generic [ref=e538]:
+          - generic [ref=e539]:
+            - generic [ref=e540]: 🙄
+            - generic [ref=e541]:
+              - paragraph [ref=e542]: RealistDad_99
+              - paragraph [ref=e543]: "@RealistDad99"
+            - img [ref=e545]
+          - paragraph [ref=e547]: MIT? Stanford? LOL. Just another overconfident 9th grader who thinks he's the next Zuckerberg. 150k views? My dog's account has more. Stay humble, touch grass.
+          - generic [ref=e548]:
+            - generic [ref=e549]: 8:13 PM · Feb 2, 2025
+            - generic [ref=e550]: 💬 63
+            - generic [ref=e551]: ❤️ 1.2K
+        - generic:
+          - generic: WRONG
+        - paragraph [ref=e554]: I'm in 9th grade. Give me time.
+    - generic [ref=e555]:
+      - paragraph [ref=e556]: final score
+      - paragraph [ref=e557]: Haters 0 · Aadi 3
+      - paragraph [ref=e558]: ✓ 3/3 haters proven wrong · this page is exhibit A
+      - paragraph [ref=e559]: built by Claude Sonnet 4.6 — yes, that "overrated" AI
+  - generic [ref=e646]:
+    - generic [ref=e647]:
+      - paragraph [ref=e648]: the trajectory
+      - heading "The plan was never to blend in." [level=2] [ref=e649]
+    - generic [ref=e651]:
+      - generic [ref=e652]:
+        - generic [ref=e654]: "01"
+        - generic [ref=e655]:
+          - generic [ref=e656]:
+            - heading "INVENTOR" [level=3] [ref=e657]
+            - generic [ref=e658]: Active now
+          - paragraph [ref=e659]: Building things that don't exist yet. From embedded systems to iOS apps — every project is a prototype of what's coming.
+      - generic [ref=e660]:
+        - generic [ref=e662]: "02"
+        - generic [ref=e663]:
+          - generic [ref=e664]:
+            - heading "ENTREPRENEUR" [level=3] [ref=e665]
+            - generic [ref=e666]: In training
+          - paragraph [ref=e667]: Turning technical skills into real business. FBLA, reselling, cold-calling local businesses — the reps start at 15.
+      - generic [ref=e668]:
+        - generic [ref=e670]: "03"
+        - generic [ref=e671]:
+          - generic [ref=e672]:
+            - heading "SILICON VALLEY" [level=3] [ref=e673]
+            - generic [ref=e674]: Locked in
+          - paragraph [ref=e675]: "The endgame. Not a dream — a coordinate. Class of 2029. MIT/Stanford/CMU. Then: build something that changes the world."
+    - generic [ref=e677]:
+      - paragraph [ref=e678]: "\"Stay mad.\""
+      - paragraph [ref=e679]: — Aadi Gupta, class of 2029
+  - contentinfo [ref=e680]:
+    - generic [ref=e681]:
+      - generic [ref=e682]:
+        - generic [ref=e683]: AG
+        - generic [ref=e684]: ·
+        - generic [ref=e685]: Aadi Gupta · Redmond, WA
+      - generic [ref=e686]:
+        - generic [ref=e687]: Built by
+        - generic [ref=e688]: CLAUDE SONNET 4.6
+        - generic [ref=e689]: · Anthropic · 2026
+      - generic [ref=e690]:
+        - link "YouTube" [ref=e691] [cursor=pointer]:
+          - /url: https://youtube.com/@RamaRid3rShorts
+        - link "GitHub" [ref=e692] [cursor=pointer]:
+          - /url: https://github.com/aadivb9
+        - link "Email" [ref=e693] [cursor=pointer]:
+          - /url: mailto:aag.vlogger@gmail.com

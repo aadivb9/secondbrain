@@ -1,0 +1,60 @@
+[     269ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:21550
+[     407ms] SyntaxError: Failed to execute 'addColorStop' on 'CanvasGradient': The value provided ('rgba(0,0,0,8b5cf6') could not be parsed as a color.
+    at http://localhost:5173/src/components/ParticleCanvas.jsx:96:18
+    at Array.forEach (<anonymous>)
+    at draw (http://localhost:5173/src/components/ParticleCanvas.jsx:76:17)
+    at http://localhost:5173/src/components/ParticleCanvas.jsx:129:5
+    at commitHookEffectListMount (http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:18119:15)
+    at commitPassiveMountEffects (http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:19490:11)
+[     410ms] SyntaxError: Failed to execute 'addColorStop' on 'CanvasGradient': The value provided ('rgba(0,0,0,8b5cf6') could not be parsed as a color.
+    at http://localhost:5173/src/components/ParticleCanvas.jsx:96:18
+    at Array.forEach (<anonymous>)
+    at draw (http://localhost:5173/src/components/ParticleCanvas.jsx:76:17)
+    at http://localhost:5173/src/components/ParticleCanvas.jsx:129:5
+    at commitHookEffectListMount (http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:16915:34)
+    at invokePassiveEffectMountInDEV (http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:18324:19)
+    at invokeEffectsInDev (http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:19701:19)
+    at commitDoubleInvokeEffectsInDEV (http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:19686:15)
+    at flushPassiveEffectsImpl (http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:19503:13)
+    at flushPassiveEffects (http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:19447:22)
+[     423ms] [ERROR] The above error occurred in the <ParticleCanvas> component:
+
+    at ParticleCanvas (http://localhost:5173/src/components/ParticleCanvas.jsx:21:21)
+    at div
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=cd373113:945:40)
+    at section
+    at Hero (http://localhost:5173/src/components/Hero.jsx:36:15)
+    at div
+    at App (http://localhost:5173/src/App.jsx:32:3)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:14031
+[     423ms] [ERROR] The above error occurred in the <ParticleCanvas> component:
+
+    at ParticleCanvas (http://localhost:5173/src/components/ParticleCanvas.jsx:21:21)
+    at div
+    at MotionComponent (http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=cd373113:945:40)
+    at section
+    at Hero (http://localhost:5173/src/components/Hero.jsx:36:15)
+    at div
+    at App (http://localhost:5173/src/App.jsx:32:3)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:14031
+[     424ms] SyntaxError: Failed to execute 'addColorStop' on 'CanvasGradient': The value provided ('rgba(0,0,0,8b5cf6') could not be parsed as a color.
+    at http://localhost:5173/src/components/ParticleCanvas.jsx:96:18
+    at Array.forEach (<anonymous>)
+    at draw (http://localhost:5173/src/components/ParticleCanvas.jsx:76:17)
+    at http://localhost:5173/src/components/ParticleCanvas.jsx:129:5
+    at commitHookEffectListMount (http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:18119:15)
+    at commitPassiveMountEffects (http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:5173/node_modules/.vite/deps/chunk-NUMECXU6.js?v=cd373113:19490:11)
+[     466ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5173/favicon.ico:0
+[   22128ms] [WARNING] Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly. @ http://localhost:5173/node_modules/.vite/deps/framer-motion.js?v=cd373113:695
